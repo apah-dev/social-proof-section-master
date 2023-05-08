@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/apah-dev/social-proof-section-master.git)
+- Live Site URL: [Live Site](https://apah-dev.github.io/social-proof-section-master/)
 
 ### Built with
 
@@ -38,8 +38,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -83,6 +81,5 @@ must likely about the specificity in css */
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@apah-dev](https://www.frontendmentor.io/profile/apah-dev)
+- Twitter - [@benson_apah](https://www.twitter.com/benson_apah)
